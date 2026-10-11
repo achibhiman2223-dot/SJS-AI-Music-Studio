@@ -1,0 +1,18 @@
+{
+  "name": "SJS AI Music Creation",
+  "short_name": "SJS AI",
+  "description": "Professional AI music studio interface for creating songs and managing music projects.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#070b17",
+  "theme_color": "#090b18",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

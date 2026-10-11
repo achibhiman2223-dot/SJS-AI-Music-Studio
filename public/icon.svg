@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SJS AI music icon">
+  <defs>
+    <linearGradient id="grad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="50%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#f472b6" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="#090b18"/>
+  <circle cx="256" cy="256" r="186" fill="url(#grad)" opacity="0.92"/>
+  <path d="M250 140c0-18 14-32 32-32s32 14 32 32v171.7c-9.2-5.5-20.2-8.7-32-8.7-31.7 0-57.3 25.6-57.3 57.3S282.8 384 314.4 384c24.5 0 45.2-15.3 53.5-36.7V192l64-24v-28l-64 24v-24c0-18 14-32 32-32s32 14 32 32v42l-64 24v164.8c-9.7 6.7-21.6 10.8-34.6 10.8-31.7 0-57.3-25.6-57.3-57.3V140z" fill="#eff6ff"/>
+</svg>
